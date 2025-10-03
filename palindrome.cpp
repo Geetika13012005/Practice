@@ -9,16 +9,16 @@ int main(){
 
     int i=0;
 
-    int j = s.length() - 1; // last index
+    int j = s.length() - 1; 
     bool isPal = true;      
 
     while (i < j) {
-        if (s[i] != s[j]) { // compare characters from both ends
-            isPal = false;  // mismatch -> not palindrome
-            break;          // stop checking
+        if (s[i] != s[j]) { 
+            isPal = false;  
+            break;          
         }
-        i++; // move forward from left
-        j--; // move backward from right
+        i++; 
+        j--; 
     }
 
     if (isPal)
@@ -27,4 +27,5 @@ int main(){
         cout << s << " is not a palindrome\n";
 
     return 0;
+
 }
