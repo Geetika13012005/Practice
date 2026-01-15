@@ -7,3 +7,4 @@ so they simply display positive elements in output for user .
 125. Plaindrome
      here i need to find whether the number ,string or phase is a palindrome or not if it is palindrome then return true if not then give false .
 
+2943
