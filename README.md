@@ -8,3 +8,4 @@ so they simply display positive elements in output for user .
      here i need to find whether the number ,string or phase is a palindrome or not if it is palindrome then return true if not then give false .
 
 2943
+2975
