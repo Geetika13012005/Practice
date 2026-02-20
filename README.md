@@ -16,6 +16,3 @@ so they simply display positive elements in output for user .
 2147
 118
 
-654
-
-67 binary number
