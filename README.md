@@ -14,5 +14,4 @@ so they simply display positive elements in output for user .
 1895
 1292
 
-118
 
