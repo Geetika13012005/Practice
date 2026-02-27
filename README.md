@@ -13,6 +13,6 @@ so they simply display positive elements in output for user .
 3047
 1895
 1292
-2147
+
 118
 
