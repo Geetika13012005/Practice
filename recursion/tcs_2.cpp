@@ -6,7 +6,6 @@ int main (){
     while(n--){
         cin>>a;
 
-        
         if(a>m){
             m=a;
             c++;
